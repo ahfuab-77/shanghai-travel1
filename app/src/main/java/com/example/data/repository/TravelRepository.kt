@@ -27,7 +27,7 @@ class TravelRepository(private val travelDao: TravelDao) {
         // 1. Seed Settings
         val defaultSettings = AppSettings(
             id = 1,
-            officeAddress = "صنعاء - مجمع الشلال - المبنى الإداري - الدور السادس",
+            officeAddress = "6صنعاء - مجمع الشلال - المبنى الإداري - الدور السادس",
             phone1 = "737103025",
             phone2 = "738601113",
             landline = "01688617",
