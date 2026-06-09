@@ -114,7 +114,7 @@ fun MainAppContainer(viewModel: TravelViewModel) {
                             }
                             Spacer(modifier = Modifier.width(10.dp))
                             Text(
-                                text = "شنغهاي للسياحة",
+                                text = "شنغهاي للسياحة والسفر",
                                 fontWeight = FontWeight.Bold,
                                 color = ShanghaiBlue,
                                 fontSize = 18.sp
