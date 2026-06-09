@@ -1,0 +1,6 @@
+{
+  "name": "شنغهاي للسياحة والسفر",
+  "description": "التطبيق الرسمي لشركة شنغهاي للسياحة والسفر وحجوزات الطيران والفنادق والرحلات البرية والحج والعمرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
